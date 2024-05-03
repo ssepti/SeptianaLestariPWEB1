@@ -38,4 +38,8 @@ B. CSS
 ![23](https://github.com/ssepti/SeptianaLestariPWEB1/assets/152271222/efe39c62-4d71-4bf1-92d4-cb20d6dad3a7)
 19. Tabel. Tampilan tabel HTML dapat ditingkatkan secara signifikan dengan CSS
 ![26](https://github.com/ssepti/SeptianaLestariPWEB1/assets/152271222/73a31128-96b9-4280-9510-9e3394f63515)
+20. Float. Properti CSS float menentukan bagaimana sebuah elemen harus melayang.
+![27](https://github.com/ssepti/SeptianaLestariPWEB1/assets/152271222/99d93a95-8b03-4bbc-a934-adf49d6b49c8)
+21. Dalam sebuah web sangat diperlukan Navigasi Bar untuk membuat menu. Membuat navigasi bar diperlukan HTML sebagai dasarnya, dan CSS untuk membuat style pada navbar tersebut. Navigasi bar dalam halaman web biasanya terdapat 2 macam yaitu vertical navbar dan horizontal navbar
+![28](https://github.com/ssepti/SeptianaLestariPWEB1/assets/152271222/77902f13-37fe-4cd9-88d4-d6b42caea4b9)
 
