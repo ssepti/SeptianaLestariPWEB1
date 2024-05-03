@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Challenge Live Code - HTML & CSS</title>
+<style>
+  * {
+    text-align: center;
+  }
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  tr:nth-child(even) {background-color: #f2f2f2}
+  th {
+  background-color: #f2f2f2;
+  color: black;
+}
+tr:hover {background-color: #f2f2f2;}
+</style>
+   </head>
+<body>
+<h1>JavaScript Arithmetic</h1>
+  <table>
+    <tr>
+      <th>Variabel</th>
+      <th>Nilai</th>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td id="demo1">5</td>
+    </tr>
+    <tr>
+      <td>b</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>c</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Hasil</td>
+      <td id="demo" onmouseover=math() onmouseleave=math2()></td>
+    </tr>
+  </table>
+  <img src="https://th.bing.com/th/id/OIP.M5WYwHUsOn3-r0yWrDDJTQHaHa?rs=1&pid=ImgDetMain" width="100px" height="100px">
+  <button onclick="Ubah()">Ubah Nilai</button>
+  <script>
+    function math() {
+      var a = 5;
+      var b = 2;
+      var c = 1;
+     hasil = a + b - c;
+      document.getElementById("demo").innerHTML=hasil;
+    }
+    function math2() {
+      document.getElementById("demo").innerHTML="";
+    }
+    function Ubah() {
+  let person = prompt("Masukan Nilai", " ");
+  if (person != null) {
+    document.getElementById("demo1").innerHTML =
+    person;
+  }
+}
+  </script>
+</body>
+</html>
