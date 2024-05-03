@@ -1,5 +1,5 @@
 A. HTML
-1. HTML Adalah singkatan dari Hypertext Markup Languange. HTML adalah Bahasa pemrograman standar yang digunakan untuk membuat atau merancang halaman web.HTML memiliki tag dan atribut. HTML dapat membuat struktur dari sebuah konten pada halaman web yang berisi text, gambar, link, tabel dan lainnya.
+1. HTML Adalah singkatan dari Hypertext Markup Languange. HTML adalah Bahasa pemrograman standar yang digunakan untuk membuat atau merancang halaman web.HTML memiliki tag dan atribut. HTML dapat membuat struktur dari sebuah konten pada halaman yang berisi text, gambar, link, tabel dan lainnya.
 ![1](https://github.com/ssepti/SeptianaLestariPWEB1/assets/152271222/fa3594ff-f93d-4f81-9329-dfc2d5ec8867)
 3. HTML memiliki sintaks atau aturan penulisannya. Dalam membuat sebuah html diperlukan tag pembuka dan penutup serta diperlukan struktur pernulisannya. Struktur tag html yaitu <html> untuk membuka dokumen, <head> , dan <body> untuk membuat halam web. Adapun penulisan judul yaitu dengan membuka h1, sampai h6 dan p untuk paragraph.
 ![3](https://github.com/ssepti/SeptianaLestariPWEB1/assets/152271222/864c59eb-5928-48e6-abca-86089e4a770c)
