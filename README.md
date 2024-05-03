@@ -76,6 +76,6 @@ JavaScript  adalah bahasa pemrograman yang dgunakan untuk memprogram halaman web
 8. Object. Objek juga merupakan variabel. Tapi objek bisa mengandung banyak nilai.
 ![44](https://github.com/ssepti/SeptianaLestariPWEB1/assets/152271222/cead0156-8ead-4877-8bdf-91f92adc5dad)
 9. Events HTML dapat berupa sesuatu yang dilakukan browser, atau sesuatu yang dilakukan pengguna.
-![45](https://github.com/ssepti/SeptianaLestariPWEB1/assets/152271222/321be6ff-c418-472a-a9ed-8a3562c3e7a3
+![45](https://github.com/ssepti/SeptianaLestariPWEB1/assets/152271222/321be6ff-c418-472a-a9ed-8a3562c3e7a3)
 10. String JavaScript adalah nol atau lebih karakter yang ditulis di dalam tanda kutip. digunakan untuk menyimpan teks
 ![46](https://github.com/ssepti/SeptianaLestariPWEB1/assets/152271222/e7efdb85-81b8-480b-a14e-b9bed65ab696)
